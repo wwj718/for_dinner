@@ -13,3 +13,6 @@
 *  配置./config.py
 *  bypy.py info 根据提示做相应配置
 *  python for_dinner.py
+
+#TODO
+使用[Gooey](https://github.com/chriskiehl/Gooey) 来配置参数，操作友好些
