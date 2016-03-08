@@ -28,7 +28,7 @@ if __name__ == '__main__':
 <p>send by <a href="http://www.python.org">Python</a>...</p>
 </body></html>
 '''
-    if send_mail(mailto_list,"hello",content):
+    if send_mail("hello",content,mailto_list):
         print "发送成功"
     else:
         print "发送失败"
